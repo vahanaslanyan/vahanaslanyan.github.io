@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://vahanaslanyan.github.io/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/post/first-post/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/post/</loc>
+    <lastmod>2023-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/talk/2023-08-19-talks/</loc>
+    <lastmod>2023-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/talk/</loc>
+    <lastmod>2023-08-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/page/about/</loc>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/categories/</loc>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/page/</loc>
+  </url><url>
+    <loc>https://vahanaslanyan.github.io/tags/</loc>
+  </url>
+</urlset>
