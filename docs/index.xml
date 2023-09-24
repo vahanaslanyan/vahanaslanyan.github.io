@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vahan Aslanyan</title>
-    <link>https://vahanaslanyan.github.io/</link>
+    <link>/</link>
     <description>Recent content on Vahan Aslanyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vahanaslanyan.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://vahanaslanyan.github.io/post/first-post/</link>
+      <link>/post/first-post/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vahanaslanyan.github.io/post/first-post/</guid>
+      <guid>/post/first-post/</guid>
       <description>A new blog post is coming soon! Stay tuned!</description>
     </item>
     
     <item>
       <title>Recent Talks and Presentations</title>
-      <link>https://vahanaslanyan.github.io/talk/2023-08-19-talks/</link>
+      <link>/talk/2023-08-19-talks/</link>
       <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vahanaslanyan.github.io/talk/2023-08-19-talks/</guid>
+      <guid>/talk/2023-08-19-talks/</guid>
       <description>1. Protective effects of sleep duration and physical activity on cognitive performance are influenced by amyloid beta and brain volume but not tau burden among cognitively unimpaired older adults. Event: Alzheimer&amp;rsquo;s Association International Conference Date: July 17, 2023 Location: Amsterdam RAI Description: In this talk, I presented my findings about the mechanisms through which sleep and exercise influence cognition. 2. Protective effects of sleep duration and physical activity on cognitive performance are influenced by amyloid beta and brain volume Event: Monthly science meeting at ATRI Date: April 2022 Location: Alzheimer&amp;rsquo;s Therapy and Research Institute, San Diego, CA Description: In this talk, I presented progress and findings to collaborators and professionals in the field.</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>https://vahanaslanyan.github.io/page/about/</link>
+      <link>/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vahanaslanyan.github.io/page/about/</guid>
+      <guid>/page/about/</guid>
       <description>I&amp;rsquo;m a Biostatistics PhD student at University of Southern California. I am interested in adaptive designs for randomized controlled trials in Alzheimer&amp;rsquo;s Disease. My dissertation focuses on:
 Bayesian covariate-adjusted response adaptive randomization for continuous outcomes Adjusting for effect modification in response adaptive randomization The utility of response adaptive randomization in platform trials Before starting my PhD, I worked with neuroimaging data at USC INI. I have graduated from UC Berkeley with BA in Statistics and Applied Mathematics.</description>
     </item>

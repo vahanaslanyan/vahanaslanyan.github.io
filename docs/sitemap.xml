@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vahanaslanyan.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/post/first-post/</loc>
+    <loc>/post/first-post/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2023-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/talk/2023-08-19-talks/</loc>
+    <loc>/talk/2023-08-19-talks/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2023-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/page/about/</loc>
+    <loc>/page/about/</loc>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/page/</loc>
+    <loc>/page/</loc>
   </url><url>
-    <loc>https://vahanaslanyan.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>

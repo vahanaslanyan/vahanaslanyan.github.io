@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Vahan Aslanyan</title>
-    <link>https://vahanaslanyan.github.io/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Vahan Aslanyan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://vahanaslanyan.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://vahanaslanyan.github.io/post/first-post/</link>
+      <link>/post/first-post/</link>
       <pubDate>Fri, 15 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://vahanaslanyan.github.io/post/first-post/</guid>
+      <guid>/post/first-post/</guid>
       <description>A new blog post is coming soon! Stay tuned!</description>
     </item>
     

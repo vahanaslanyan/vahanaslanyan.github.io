@@ -1,7 +1,8 @@
-baseurl: https://vahanaslanyan.github.io
+baseurl: https://vahanaslanyan.com
 publishdir: docs
 DefaultContentLanguage: en
 title: Vahan Aslanyan
+relativeurls: true
 theme: "beautifulhugo"
 pygmentsStyle: trac
 pygmentsUseClasses: yes
