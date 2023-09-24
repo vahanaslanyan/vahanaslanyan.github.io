@@ -33,7 +33,7 @@ Author:
 menu:
   main:
     - name: Resume
-      url: post/Vahan_Aslanyan_resume.pdf
+      url: post/VahanAslanyan_resume.pdf
       weight: 4
     - name: Blog
       url: post/first-post
