@@ -9,6 +9,7 @@ pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 pygmentsCodefencesGuessSyntax: yes
 Params:
+  homeTitle: Vahan Aslanyan
   comments: no
   commit: no
   dateFormat: January 2, 2006
@@ -17,7 +18,6 @@ Params:
   logo: img/IMG-4344.jpg
   mainSections:
   - post
-  - posts
   readingTime: no
   rss: no
   showRelatedPosts: no
@@ -38,10 +38,10 @@ menu:
       url: resume/VahanAslanyan_Resume_Dec2023.pdf
       weight: 4
     - name: Blog
-      url: post/
+      url: ""
       weight: 1
     - name: About
-      url: page/about/
+      url: page/about
       weight: 2
     - identifier: Research
       name: Research
@@ -56,6 +56,6 @@ menu:
       weight: 2
     - name: Talks
       parent: Research
-      url: talk/Talks
+      url: talk/talks
       weight: 3
       
