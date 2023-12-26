@@ -25,6 +25,8 @@ Params:
   subtitle: Biostatistics PhD student at USC
   useHLJS: yes
   wordCount: no
+permalinks:
+  post: /:year/:month/:day/:slug/
 Author:
   github: vahanaslanyan
   linkedin: vahan-aslanyan
@@ -33,10 +35,10 @@ Author:
 menu:
   main:
     - name: Resume
-      url: post/VahanAslanyan_resume.pdf
+      url: resume/VahanAslanyan_Resume_Sep2023.pdf
       weight: 4
     - name: Blog
-      url: post/first-post
+      url: post/
       weight: 1
     - name: About
       url: page/about/
@@ -54,6 +56,6 @@ menu:
       weight: 2
     - name: Talks
       parent: Research
-      url: talk/2023-08-19-talks
+      url: talk/Talks
       weight: 3
       
