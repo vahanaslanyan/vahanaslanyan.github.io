@@ -35,7 +35,7 @@ Author:
 menu:
   main:
     - name: Resume
-      url: resume/VahanAslanyan_Resume_Dec2023.pdf
+      url: resume/VahanAslanyan_Resume_Oct2024.pdf
       weight: 4
     - name: Blog
       url: ""
